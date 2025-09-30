@@ -7,7 +7,7 @@
 Clone the repo and run the `main.m` file to see all the functios running, show the 3 graphs.
 
 ```
-git clone https://github.com/Limoncrack2v/Proyecto_frenos_magenticos
+git clone https://github.com/HugoAguayo2006/Proyecto_frenos_magenticos
 ```
 
 ## a_total.m
